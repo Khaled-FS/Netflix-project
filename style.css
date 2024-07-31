@@ -1,0 +1,44 @@
+body{background-color: black}
+.header-back{
+    background-image: url("/netflix-background.jpeg");
+    height: 380px;
+    
+}
+.container1{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+   
+
+}
+.img1{
+    height: 100px;
+    width: 100px;
+}
+
+.header1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+}
+
+.text1{
+  color: white;
+}
+button{
+
+    background-color: rgb(184, 9, 9);
+
+}
+.container2{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    padding: 70px;
+    justify-content: center;
+}
+
