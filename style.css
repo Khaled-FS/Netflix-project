@@ -1,9 +1,5 @@
 body{background-color: black}
-.header-back{
-    background-image: url("/khaled.jpg");
-    height: 1000px;
-    
-}
+
 .container1{
     display: flex;
     justify-items: center;
